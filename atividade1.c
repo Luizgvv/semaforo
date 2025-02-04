@@ -57,9 +57,14 @@ int main() {
     }
 
     // Loop principal
+    int tempo_segundos = 0;
     while (true) {
-        // Imprime informações no console a cada segundo
-        printf("Sistema funcionando - Temporizador ativo\n");
+        // Imprime o tempo em segundos no console a cada segundo
+        printf("Temporizador ativo - %d segundos\n", tempo_segundos);
+
+        // Incrementa o contador de segundos
+        tempo_segundos++;
+        
         // Espera 1 segundo
         sleep_ms(1000);
     }
