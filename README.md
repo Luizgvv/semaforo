@@ -60,7 +60,7 @@ Isso gerará um arquivo .uf2 que pode ser enviado para o Raspberry Pi Pico.
 
 ### 4. Executar a Simulação no Wokwi
 Caso queira testar no Wokwi, use o seguinte link:
-https://wokwi.com/projects/421825067603470337
+[clique aqui](https://wokwi.com/projects/421825067603470337)
 
 ### 5. Monitorar a Saída Serial
 Para visualizar as mensagens do sistema, utilize o PuTTY ou conecte a placa ao PC e use o Serial Monitor do VSCode.
