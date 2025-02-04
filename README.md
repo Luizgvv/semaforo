@@ -40,6 +40,8 @@ Certifique-se de ter instalado:
 
 ### 2. Clonar o Repositório
 
+No terminal, execute o comando:
+
 ```bash
 git clone https://github.com/Luizgvv/semaforo.git
 cd semaforo
@@ -61,7 +63,7 @@ Caso queira testar no Wokwi, use o seguinte link:
 https://wokwi.com/projects/421825067603470337
 
 ### 5. Monitorar a Saída Serial
-Para visualizar as mensagens do sistema utilize o PuTTY ou conecte a placa no PC e utilize o Serial Monitor do VSCode.
+Para visualizar as mensagens do sistema, utilize o PuTTY ou conecte a placa ao PC e use o Serial Monitor do VSCode.
 
 ### Exemplo de Saída Serial
 ```bash
