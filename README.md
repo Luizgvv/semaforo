@@ -44,22 +44,15 @@ No terminal, execute o comando:
 
 ```bash
 git clone https://github.com/Luizgvv/semaforo.git
-cd semaforo
 ```
 ### 3. Compilar o Código
 
-Execute os seguintes comandos no terminal:
-
-```bash
-mkdir build
-cd build
-cmake ..
-make
-```
 Isso gerará um arquivo .uf2 que pode ser enviado para o Raspberry Pi Pico.
 
 ### 4. Executar a Simulação no Wokwi
-Caso queira testar no Wokwi, use o seguinte link:
+
+Você pode utilizar a simulação do Wokwi do VSCode ou utilizar o link abaixo:
+
 [clique aqui](https://wokwi.com/projects/421825067603470337)
 
 ### 5. Monitorar a Saída Serial
